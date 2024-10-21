@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
+    }
+}
